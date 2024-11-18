@@ -20,7 +20,7 @@ public class BowlingGameTest {
     }
 
     @Test
-    public void lisaTestThree() {
+    public void lisaTestThree~() {
 
     }
 }
